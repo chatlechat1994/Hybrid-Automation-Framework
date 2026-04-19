@@ -1,4 +1,4 @@
-![Fintech CI Pipeline](https://github.com/chatlechat1994/Hybrid-Automation-Framework/actions/workflows/python-tests.yml/badge.svg)
+[![Fintech CI Pipeline](https://github.com/chatlechat1994/Hybrid-Automation-Framework/actions/workflows/python_tests.yml/badge.svg)](https://github.com/chatlechat1994/Hybrid-Automation-Framework/actions/workflows/python_tests.yml)
 # 🏦 Hybrid Automation Framework: Fintech Data Integrity
 
 This repository demonstrates a backend automation framework focused on **database integrity** and **transaction auditing**.
@@ -15,7 +15,7 @@ The framework simulates a basic banking system where money transfers must occur 
 
 It ensures that:
 - The total balance across the system remains constant  
-- Transactions fail safely when funds are insufficient  
+- Transactions fail safely hen funds are insufficient  
 - System state is not corrupted during errors  
 
 ---
