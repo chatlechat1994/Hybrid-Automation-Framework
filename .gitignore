@@ -1,0 +1,24 @@
+# --- Virtual Environments ---
+
+venv/
+pyvenv.cfg
+.env
+
+# --- Python Junk ---
+
+__pycache__/
+*.pyc
+.pytest_cache/
+.dist/
+
+# --- Local Data & Logs ---
+
+fintech_bank.db
+audit.log
+
+# --- System & IDE Files ---
+
+.vscode/
+Thumbs.db
+Desktop.ini
+.DS_Store
