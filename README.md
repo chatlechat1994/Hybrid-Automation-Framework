@@ -1,3 +1,4 @@
+![Fintech CI Pipeline](https://github.com/chatlechat1994/Hybrid-Automation-Framework/actions/workflows/python-tests.yml/badge.svg)
 # 🏦 Hybrid Automation Framework: Fintech Data Integrity
 
 This repository demonstrates a backend automation framework focused on **database integrity** and **transaction auditing**.
